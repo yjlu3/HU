@@ -2,7 +2,6 @@
 
 A realistic billiard game built with pure JavaScript and HTML5 Canvas that implements accurate physics for ball collisions, momentum transfer, and friction.
 
-![Billiard Game Screenshot](screenshot-placeholder.png)
 
 ## ✨ Features
 
